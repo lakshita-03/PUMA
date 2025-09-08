@@ -6,68 +6,84 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project Landing Page</title>
+  <title>Project Dashboard</title>
   <style>
     body {
       margin: 0;
       font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      text-align: center;
+      padding: 40px;
     }
-    .container {
-      display: flex;
-      height: 100vh;
-    }
-    .left {
-      flex: 1;
-      background: #f5f7fa;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      padding: 50px;
-    }
-    .left h1 {
-      font-size: 3rem;
+    h1 {
+      font-size: 2.5rem;
       margin-bottom: 20px;
     }
-    .left p {
-      font-size: 1.2rem;
-      margin-bottom: 30px;
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin-top: 30px;
     }
-    .left a {
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: 0.3s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 12px rgba(0,0,0,0.15);
+    }
+    .card h2 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+    }
+    .card p {
+      font-size: 1rem;
+      color: #555;
+    }
+    .card a {
+      display: inline-block;
+      margin-top: 10px;
       text-decoration: none;
       background: #007bff;
       color: white;
-      padding: 12px 24px;
-      border-radius: 8px;
-      font-weight: bold;
+      padding: 8px 16px;
+      border-radius: 6px;
       transition: 0.3s;
     }
-    .left a:hover {
+    .card a:hover {
       background: #0056b3;
-    }
-    .right {
-      flex: 1;
-      background: url("https://cdn-icons-png.flaticon.com/512/3135/3135715.png") 
-                  no-repeat center center/contain;
-    }
-    @media (max-width: 768px) {
-      .container {
-        flex-direction: column;
-      }
-      .right {
-        height: 40vh;
-      }
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <div class="left">
-      <h1>TransactIQ 2.0</h1>
-      <p>Forecasting India’s Digital Future with Data & Insights</p>
-      <a href="#explore">Explore Project</a>
+  <h1>Welcome to TransactIQ 2.0</h1>
+  <div class="grid">
+    <div class="card">
+      <h2>Overview</h2>
+      <p>Introduction and project scope.</p>
+      <a href="#overview">Read More</a>
     </div>
-    <div class="right"></div>
+    <div class="card">
+      <h2>Data Sources</h2>
+      <p>NPCI, RBI, and World Bank datasets.</p>
+      <a href="#data">Explore</a>
+    </div>
+    <div class="card">
+      <h2>Insights</h2>
+      <p>Trends and analysis from the data.</p>
+      <a href="#insights">View</a>
+    </div>
+    <div class="card">
+      <h2>Forecasting</h2>
+      <p>Machine learning predictions.</p>
+      <a href="#forecasting">Check</a>
+    </div>
   </div>
 </body>
 </html>
+
 
