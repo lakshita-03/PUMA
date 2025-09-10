@@ -22,7 +22,7 @@
 
 ## 2. Data and Methodology
 - ### Data Sources-
-The dataset used in this project has been extracted from **Kaggle**, an open-source data platform. The dataset contains Puma’s sales records, including product details, categories, pricing, units sold, revenue, and regional information. [Dataset 1](https://www.kaggle.com/datasets/diabto/puma-dataset), [Dataset 2](https://www.kaggle.com/datasets/abdullahlahaji/footware-sales-dataset).
+The dataset used in this project has been extracted from **Kaggle**, an open-source data platform. The dataset contains Puma’s sales records, including product details, categories, pricing, units sold, revenue, and regional information. [Dataset 1](https://www.kaggle.com/datasets/diabto/puma-dataset) , [Dataset 2](https://www.kaggle.com/datasets/abdullahlahaji/footware-sales-dataset) .
 
 
 
