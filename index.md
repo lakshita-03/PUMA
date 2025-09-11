@@ -33,13 +33,13 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 [Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Dataset_1.csv)
 
 #### **Uncleaned Data**
-<img src="pictures/data 1 p_1.png" width="45%">
+<img src="pictures/data 1 p_1.png" width="100">
 <br><br>
 
 #### **Cleaned Data**
-<img src="pictures/data 1 p_2.png" width="45%">
+<img src="pictures/data 1 p_2.png" width="100">
 <br>
-<img src="pictures/data 1 p_3.png" width="45%">
+<img src="pictures/data 1 p_3.png" width="100">
 <br><br>
 
 ### Competitor Sales Dataset (Dataset_2)
@@ -48,11 +48,11 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 [Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Dataset_2.csv)
 
 #### **Uncleaned Data**
-<img src="pictures/data 2 p_1.png" width="45%">
+<img src="pictures/data 2 p_1.png" width="100">
 <br><br>
 
 ### **Cleaned Data**
-<img src="pictures/data 2 p_2.png" width="45%">
+<img src="pictures/data 2 p_2.png" width="100">
 <br>
-<img src="pictures/data 2 p_3.png" width="45%">
+<img src="pictures/data 2 p_3.png" width="100">
 
