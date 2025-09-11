@@ -6,7 +6,7 @@
 
 ## Table of Contents 
   1. Project Overview 
-  2. Data and Methodology
+  2. Data Description and Processing
   3. Exploratory Data Analysis (EDA)
   4. Competitive Analysis
   5. Business Recommendations           
@@ -55,4 +55,7 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 <img src="pictures/data 2 p_2.png" width="100%">
 <br>
 <img src="pictures/data 2 p_3.png" width="100%">
+<br>
+
+## 3. Exploratory Data Analysis (EDA) of Puma Sales Dataset
 
