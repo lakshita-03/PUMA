@@ -57,5 +57,5 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 <img src="pictures/data 2 p_3.png" width="100%">
 <br>
 
-## 3. Exploratory Data Analysis (EDA) of Puma Sales Dataset
+## 3. Exploratory Data Analysis of Puma US Sales(2020-2021)
 
