@@ -48,7 +48,7 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 [Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Competitor.csv)
 
 ### **Uncleaned Data**
-<img src="pictures/comp_1.png" width="100%">
+<img src="pictures/com_1.png" width="100%">
 <br><br>
 
 ### **Cleaned Data**
