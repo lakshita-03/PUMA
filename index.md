@@ -32,11 +32,11 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 
 [Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Dataset_1.csv)
 
-#### **Uncleaned Data**
+### **Uncleaned Data**
 <img src="pictures/data 1_p1.png" width="100%">
 <br><br>
 
-#### **Cleaned Data**
+### **Cleaned Data**
 <img src="pictures/data 1_p2.png" width="100%">
 <br>
 <img src="pictures/data 1 p_3.png" width="100%">
@@ -47,7 +47,7 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 
 [Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Dataset_2.csv)
 
-#### **Uncleaned Data**
+### **Uncleaned Data**
 <img src="pictures/data 2 p_1.png" width="100%">
 <br><br>
 
