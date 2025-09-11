@@ -43,18 +43,18 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 <br><br>
 
 ### Competitor Sales Dataset (Dataset_2)
-[Unprocessed File](https://github.com/lakshita-03/PUMA/blob/main/data/FootWare_Wholesale_Sales_Dataset.csv)
+[Unprocessed File](https://github.com/lakshita-03/PUMA/blob/main/data/Comp_old.csv)
 
-[Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Dataset_2.csv)
+[Processed File](https://github.com/lakshita-03/PUMA/blob/main/data/Competitor.csv)
 
 ### **Uncleaned Data**
-<img src="pictures/data 2 p_1.png" width="100%">
+<img src="pictures/comp_1.png" width="100%">
 <br><br>
 
 ### **Cleaned Data**
-<img src="pictures/data 2 p_2.png" width="100%">
+<img src="pictures/comp_2.png" width="100%">
 <br>
-<img src="pictures/data 2 p_3.png" width="100%">
+<img src="pictures/comp_3.png" width="100%">
 <br>
 
 ## 3. Exploratory Data Analysis of Puma US Sales(2020-2021)
