@@ -58,4 +58,67 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 <br>
 
 ## 3. Exploratory Data Analysis of Puma US Sales(2020-2021)
+In this section, we dive into the sales data to identify patterns, trends, and relationships across regions, products, and retailers. Through exploratory data analysis, we uncover meaningful insights that highlight performance drivers, inefficiencies, and growth opportunities.
+
+## **Dataset Overview**
+The dataset contains detailed sales records of PUMA US Sales, capturing transactions across different products, retailers, regions, and time periods. The key columns include:
+
+- Retailer – Name of the retail partner selling PUMA products
+- Invoice Date – Date of the transaction
+- Region – Geographical region of sales (West, Northeast, Midwest, South)
+- State – US state where the sales occurred
+- City – City where the transaction took place
+- Product – Product categories include Men's Street Footwear, Men's Athletic Footwear, Women's Street Footwear, Women's Athletic Footwear, Men's Apparel, and Women's Apparel
+- Price per Unit ($) – Selling price of one unit of the product
+- Units Sold – Total quantity of products sold in the transaction
+- Total Sales ($) – Revenue generated, calculated as Price per Unit × Units Sold
+- Operating Profit ($) – Profit remaining after deducting all operating expenses (such as marketing, logistics, and administration) from Total Sales
+- Operating Margin (%) – Ratio of Operating Profit to Total Sales, showing profitability percentage
+- Sales Method – Channel of sale (Online, In-Store, or Offline)
+
+### **Jupyter File**
+<iframe src="notebooks/P_2_EDA.html" width="100%" height="800px"></iframe>
+<iframe src="notebooks/P_2_EDA (2).html" width="100%" height="800px"></iframe>
+
+## Findings & Insights from EDA
+1. **Retailer Performance**
+- Foot Locker and Sports Direct stand out as Star Performers, excelling in both high sales and healthy margins.
+- Walmart and Amazon, despite high sales volumes, show thin margins, making them risky volume players.
+
+**2. Regional Analysis**
+- West and Northeast are profitable and consistent regions, with balanced sales and margins.
+- The South region is clearly underperforming, with weak sales and low profitability, needing strategic intervention.
+
+**3. Product Analysis**
+- Men’s Street Footwear and Women’s Apparel are star products, contributing strongly to both sales and profitability.
+- Women’s Athletic Footwear is a hidden gem (low sales, high margin), a potential growth area.
+- Men’s Apparel shows mixed performance, stable but not always profit-heavy.
+
+**4. Profitability Drivers**
+High revenue is not equal to high profitability. Walmart & Amazon rely on high volume but low margins, while Foot Locker & Sports Direct balance both, hence sustainable.
+
+**5. Sales Methods**
+- Retail Stores are the most profitable channel.
+- Online & Outlets are growing but less profitable.
+
+6. State-Level Profitability
+
+Star Performer States: States in West & Northeast drive strong profits.
+
+Underperforming States: Southern states show consistent weakness in both sales and margins.
+
+**7. Correlation Analysis**
+- Strong correlation between Units Sold, Sales, and Profit (>0.9).
+- Operating Margin is weakly correlated with sales, proving that selling more does not guarantee profitability.
+- 
+**Conclusion**
+- **Star Performers**:
+   - Retailers: Foot Locker, Sports Direct, West Gear
+   - Products: Men’s Street Footwear, Women’s Apparel
+   - Regions/States: West & Northeast
+- **Underperformers**:
+   - Retailers: Walmart, Amazon (risky, low-margin players)
+   - Products: Some apparel categories (e.g., Men’s Apparel) with low profit impact
+   - Regions/States: South, weakest sales & profitability
+**Takeaway: Sustainable success lies in balancing high sales + strong margins, not just chasing volume.**
 
