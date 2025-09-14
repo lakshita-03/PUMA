@@ -78,6 +78,7 @@ The dataset contains detailed sales records of PUMA US Sales, capturing transact
 
 ### **Jupyter File**
 <iframe src="notebooks/P_2_EDA.html" width="100%" height="800px"></iframe>
+
 <iframe src="notebooks/P_2_EDA (2).html" width="100%" height="800px"></iframe>
 
 ## Findings & Insights from EDA
@@ -109,5 +110,5 @@ High revenue is not equal to high profitability. Walmart & Amazon rely on high v
    - Products: Some apparel categories (e.g., Men’s Apparel) with low profit impact
    - Regions/States: West (Risky performance)
 
-### **Takeaway: Sustainable success lies in balancing high sales + strong margins, not just chasing volume.**
+### **Takeaway: Sustainable success lies in balancing high sales plus strong margins, not just chasing volume.**
 
