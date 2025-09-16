@@ -98,16 +98,16 @@ The dataset contains detailed sales records of PUMA US Sales, capturing transact
 - Men’s Apparel shows mixed performance, stable but not always profit-heavy
   
 **4. Profitability Drivers**
-High revenue is not equal to high profitability. Walmart & Amazon rely on high volume but low margins, while Foot Locker & Sports Direct balance both, hence sustainable
+- High revenue is not equal to high profitability. Walmart & Amazon rely on high volume but low margins, while Foot Locker & Sports Direct balance both, hence sustainable
 
 **5. Sales Methods**
 - Retail Stores are the most profitable channel
 - Online & Outlets are growing but less profitable
-- 
+  
 **6. Correlation Analysis**
 - Strong correlation between Units Sold, Sales, and Profit (>0.9)
 - Operating Margin is weakly correlated with sales, proving that selling more does not guarantee profitability
-- 
+  
 **Conclusion**
 - **Star Performers**:
    - Retailers: Foot Locker, Sports Direct, West Gear
