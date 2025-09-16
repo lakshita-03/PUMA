@@ -60,7 +60,7 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 ## 3. Exploratory Data Analysis of Puma US Sales(2020-2021)
 In this section, we dive into the sales data to identify patterns, trends, and relationships across regions, products, and retailers. Through exploratory data analysis, we uncover meaningful insights that highlight performance drivers, inefficiencies, and growth opportunities.
 
-### **Dataset Overview**
+#### **Dataset Overview**
 The dataset contains detailed sales records of PUMA US Sales, capturing transactions across different products, retailers, regions, and time periods. The key columns include:
 
 - Retailer – Name of the retail partner selling PUMA products
@@ -116,7 +116,7 @@ High revenue is not equal to high profitability. Walmart & Amazon rely on high v
    - Products: Some apparel categories (e.g., Men’s Apparel) with low profit impact
    - Regions/States: West (Risky performance)
 
-### **Takeaway: Sustainable success lies in balancing high sales plus strong margins, not just chasing volume.** 
+#### **Takeaway: Sustainable success lies in balancing high sales plus strong margins, not just chasing volume.** 
 
 ## 4. Competitive Analysis 
 This section provides a comparative evaluation of Puma against its key competitors (Nike, Adidas, Reebok, New Balance, Asics, etc.) across multiple dimensions such as product innovation, price segmentation, revenue generation, etc. The goal is to identify Puma’s relative strengths, weaknesses, opportunities, and market gaps to guide strategic positioning.
@@ -132,10 +132,10 @@ This section provides a comparative evaluation of Puma against its key competito
 ### Jupyter File
 <iframe src="notebooks/comp_analysis.html" width="100%" height="800px"></iframe>
 
-### Final summary of Puma's Competitor Analysis
+## Final summary of Puma's Competitor Analysis
 
 **Executive take:**
-Puma is a **mid-market, lifestyle-first brand** with a clear **male bias** in assortment and revenue. Nike and Adidas lead overall through broader assortments, performance-material innovation, and stronger pricing power.
+Puma is a **mid-market, lifestyle-first brand** with a clear **male bias** in assortment and revenue. Nike and Adidas lead overall through broader assortments, performance, material innovation, and stronger pricing power.
 
 **Key findings:**
 - Puma’s assortment and go-to-market focus are skewed toward men, which drives the majority of its sales.
