@@ -60,7 +60,7 @@ This was performed using **Power Query** to clean and prepare the datasets. This
 ## 3. Exploratory Data Analysis of Puma US Sales(2020-2021)
 In this section, we dive into the sales data to identify patterns, trends, and relationships across regions, products, and retailers. Through exploratory data analysis, we uncover meaningful insights that highlight performance drivers, inefficiencies, and growth opportunities.
 
-## **Dataset Overview**
+### **Dataset Overview**
 The dataset contains detailed sales records of PUMA US Sales, capturing transactions across different products, retailers, regions, and time periods. The key columns include:
 
 - Retailer – Name of the retail partner selling PUMA products
@@ -117,4 +117,36 @@ High revenue is not equal to high profitability. Walmart & Amazon rely on high v
    - Regions/States: West (Risky performance)
 
 ### **Takeaway: Sustainable success lies in balancing high sales plus strong margins, not just chasing volume.** 
+
+## 4. Competitive Analysis 
+This section provides a comparative evaluation of Puma against its key competitors (Nike, Adidas, Reebok, New Balance, Asics, etc.) across multiple dimensions such as product innovation, price segmentation, revenue generation, etc. The goal is to identify Puma’s relative strengths, weaknesses, opportunities, and market gaps to guide strategic positioning.
+
+### Dataset Overview
+- Brand – The company name (e.g., Puma, Adidas, Nike, Reebok)
+- Type – The product type as given in the dataset (e.g., Casual, Sneakers, Running, etc)
+- Model – Specific product model identifier (examples from the dataset include Air Jordan 1, Ultra Boost 21, Classic Leather, Chuck Taylor, Future Rider, Old Skool, Air Force 1, NMD_R1, and many others)
+- Price – Retail price of the product
+- Color – Color variants offered for the model
+- Gender – Target demographic (Men, Women)
+
+### Jupyter File
+<iframe src="notebooks/comp_analysis.html" width="100%" height="800px"></iframe>
+
+### Final summary of Puma's Competitor Analysis
+
+**Executive take:**
+Puma is a **mid-market, lifestyle-first brand** with a clear **male bias** in assortment and revenue. Nike and Adidas lead overall through broader assortments, performance-material innovation, and stronger pricing power.
+
+**Key findings:**
+- Puma’s assortment and go-to-market focus are skewed toward men, which drives the majority of its sales.
+- Puma occupies a value-for-money position: less expensive than premium rivals but above budget brands.
+- Puma under-indexes in performance categories (mesh/knit-led lines) where competitors capture higher-margin demand.
+- Puma relies more on traditional materials (leather/suede), exposing it to sustainability scrutiny compared with knit/canvas-led rivals.
+- Puma’s mid-market pricing creates a clear consumer proposition between premium and budget brands, attractive to buyers who want brand value without a premium price.
+However, price-gap charts show Puma leaves money on the table in premium categories and misses customers who want either cheaper basics or high-end performance.
+
+**Implications:**
+- The core opportunity is to grow women’s presence and performance offerings rather than change the brand’s entire identity.
+- Material & sustainability moves will protect brand equity and appeal to eco-aware consumers without abandoning the mid-market position.
+  
 
