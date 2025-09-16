@@ -84,7 +84,7 @@ The dataset contains detailed sales records of PUMA US Sales, capturing transact
 <br>
 
 ## Findings & Insights from EDA
-1. **Retailer Performance**
+**1. Retailer Performance**
 - Foot Locker and Sports Direct stand out as Star Performers, excelling in both high sales and healthy margins
 - Walmart and Amazon, despite high sales volumes, show thin margins, making them risky volume players
   
