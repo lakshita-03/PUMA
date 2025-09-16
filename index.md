@@ -81,6 +81,8 @@ The dataset contains detailed sales records of PUMA US Sales, capturing transact
 
 <iframe src="notebooks/P_2_EDA (2).html" width="100%" height="800px"></iframe>
 
+<br>
+
 ## Findings & Insights from EDA
 1. **Retailer Performance**
 - Foot Locker and Sports Direct stand out as Star Performers, excelling in both high sales and healthy margins
@@ -115,7 +117,6 @@ High revenue is not equal to high profitability. Walmart & Amazon rely on high v
    - Retailers: Walmart, Amazon (risky, low-margin players)
    - Products: Some apparel categories (e.g., Men’s Apparel) with low profit impact
    - Regions/States: West (Risky performance)
-
 #### **Takeaway: Sustainable success lies in balancing high sales plus strong margins, not just chasing volume.** 
 
 ## 4. Competitive Analysis 
