@@ -152,39 +152,41 @@ However, price-gap charts show Puma leaves money on the table in premium categor
 
 ## 5. Visualization & Dashboards
 
-<iframe title="PUMA" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWI5NDI3ZDEtMDdlZS00YWVjLTk4ZGItMGJkMTM4ZWY5ZGNlIiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="PUMA" width="1000" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWI5NDI3ZDEtMDdlZS00YWVjLTk4ZGItMGJkMTM4ZWY5ZGNlIiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
 <br>
 
 ## 6. Business Recommendations
 ### **Executive Priorities (Next 3–6 Months)**
+
 - **1. Boost Puma’s innovation & sustainable product pipeline**
-- **Problem:** Puma currently has fewer “future-trend” models (eco-friendly, knit, recycled-material, advanced-foam) compared to Adidas, Asics, and New Balance.
-- **Action:** Launch a focused Sustainable Capsule Collection of 4–8 products made from recycled materials, supported by a strong marketing campaign. Test the launch on the internet before fully starting it, and through a flagship retail partner.
+    - **Problem:** Puma currently has fewer “future-trend” models (eco-friendly, knit, recycled-material, advanced-foam) compared to Adidas, Asics, and New Balance.
+    - **Action:** Launch a focused Sustainable Capsule Collection of 4–8 products made from recycled materials, supported by a strong marketing campaign. Test the launch on the internet before fully starting it, and through a flagship retail partner.
   
 - **2. Strengthen Puma’s women’s product portfolio**
-- **Problem**: Puma has a smaller product range for women and fewer options in certain price points compared to competitors.
-- **Action:** Introduce 10–15 new women-focused products in high-demand categories such as Lifestyle and Running, and by using micro-influencer campaigns, product-market fit can be validated
+    - **Problem**: Puma has a smaller product range for women and fewer options in certain price points compared to competitors.
+    - **Action:** Introduce 10–15 new women-focused products in high-demand categories such as Lifestyle and Running, and by using micro-influencer campaigns, product-market fit can be validated
 
 - **3. Price-tier optimization (move from mid-range to premium)**
-- **Problem:** Puma’s pricing is concentrated in the mid-range segment, while Nike and Adidas dominate the premium space (>$120).
-- **Action:** Introducing 1–2 premium flagship models with higher margins, testing price sensitivity through online pre-orders, positioning these products with strong storytelling (technology, athlete collaborations).
+    - **Problem:** Puma’s pricing is concentrated in the mid-range segment, while Nike and Adidas dominate the premium space (>$120).
+    - **Action:** Introducing 1–2 premium flagship models with higher margins, testing price sensitivity through online pre-orders, positioning these products with strong storytelling (technology, athlete collaborations).
 
 ### **Tactical Priorities (6–12 Months)**
 -**4. Broaden product depth in underrepresented categories**
-- **Problem:** Puma has fewer models in some categories (e.g., Running, Casual, Fashion, etc) where competitors are strong.
-- **Action:** Expanding product range in these categories by 20–30% to strengthen competitive presence.
+    - **Problem:** Puma has fewer models in some categories (e.g., Running, Casual, Fashion, etc) where competitors are strong.
+    - **Action:** Expanding product range in these categories by 20–30% to strengthen competitive presence.
   
 - **5. Expand color & material diversity**
-- **Problem:** Competitors offer a greater variety of colors and materials, especially in lifestyle-oriented products.
-- **Action:** Adding 3–5 new color/material variations for the top 10 Puma models and testing limited-edition drops through digital channels.
+    - **Problem:** Competitors offer a greater variety of colors and materials, especially in lifestyle-oriented products.
+    - **Action:** Adding 3–5 new color/material variations for the top 10 Puma models and testing limited-edition drops through digital channels.
 
 ### Analytical & Continuous Priorities
 - **5. Advanced monitoring & dashboards**
-- **Action:** Building dashboards to track top-selling models, product sell-through, competitor price comparisons, trend-led launches, and price-segment share.
+    - **Action:** Building dashboards to track top-selling models, product sell-through, competitor price comparisons, trend-led launches, and price-segment share.
 
 - **6. “Test & Learn” approach**
-- **Action:** Experimenting with limited-edition drops and targeted price promotions. Measuring whether sales are incremental or cannibalizing existing products.
+    - **Action:** Experimenting with limited-edition drops and targeted price promotions. Measuring whether sales are incremental or cannibalizing existing products.
 
 ## 7. Conclusion
-This project provided a comprehensive analysis of Puma’s U.S. sales performance and its competitive positioning against major brands. Through exploratory data analysis and competitor benchmarking, we identified Puma’s strengths in affordability and performance loyalty, while also highlighting gaps in premium pricing, product portfolio diversity, and model-level competitiveness. The insights from this study not only underline Puma’s current market standing but also reveal opportunities to refine pricing strategies, expand product variety, and capture vast consumer segments.
+This project provided a comprehensive analysis of Puma’s U.S. sales performance and its competitive positioning against major brands. Through exploratory data analysis and competitor benchmarking, we identified Puma’s strengths in affordability and performance loyalty, while also highlighting gaps in premium pricing, product portfolio diversity, and model-level competitiveness. The insights from this study not only underscore Puma’s current market standing but also reveal opportunities to refine pricing strategies, expand product offerings, and capture a broader range of consumer segments.
 
+[Github Link](https://github.com/lakshita-03/PUMA)
