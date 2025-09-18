@@ -152,7 +152,7 @@ However, price-gap charts show Puma leaves money on the table in premium categor
 
 ## 5. Visualization & Dashboards
 
-<iframe title="PUMA" width="1000" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWI5NDI3ZDEtMDdlZS00YWVjLTk4ZGItMGJkMTM4ZWY5ZGNlIiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="PUMA" width="1000" height="374" src="https://app.powerbi.com/view?r=eyJrIjoiMWI5NDI3ZDEtMDdlZS00YWVjLTk4ZGItMGJkMTM4ZWY5ZGNlIiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
 <br>
 
 ## 6. Business Recommendations
@@ -171,7 +171,8 @@ However, price-gap charts show Puma leaves money on the table in premium categor
     - **Action:** Introducing 1–2 premium flagship models with higher margins, testing price sensitivity through online pre-orders, positioning these products with strong storytelling (technology, athlete collaborations).
 
 ### **Tactical Priorities (6–12 Months)**
--**4. Broaden product depth in underrepresented categories**
+
+- **4. Broaden product depth in underrepresented categories**
     - **Problem:** Puma has fewer models in some categories (e.g., Running, Casual, Fashion, etc) where competitors are strong.
     - **Action:** Expanding product range in these categories by 20–30% to strengthen competitive presence.
   
@@ -180,10 +181,11 @@ However, price-gap charts show Puma leaves money on the table in premium categor
     - **Action:** Adding 3–5 new color/material variations for the top 10 Puma models and testing limited-edition drops through digital channels.
 
 ### Analytical & Continuous Priorities
-- **5. Advanced monitoring & dashboards**
+
+- **6. Advanced monitoring & dashboards**
     - **Action:** Building dashboards to track top-selling models, product sell-through, competitor price comparisons, trend-led launches, and price-segment share.
 
-- **6. “Test & Learn” approach**
+- **7. “Test & Learn” approach**
     - **Action:** Experimenting with limited-edition drops and targeted price promotions. Measuring whether sales are incremental or cannibalizing existing products.
 
 ## 7. Conclusion
