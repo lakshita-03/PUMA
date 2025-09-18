@@ -152,7 +152,7 @@ However, price-gap charts show Puma leaves money on the table in premium categor
 
 ## 5. Visualization & Dashboards
 
-<iframe title="PUMA" width="1000" height="374" src="https://app.powerbi.com/view?r=eyJrIjoiMWI5NDI3ZDEtMDdlZS00YWVjLTk4ZGItMGJkMTM4ZWY5ZGNlIiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="PUMA_1" width="1000" height="374" src="https://app.powerbi.com/view?r=eyJrIjoiM2UwNDdjZTMtODA3Ny00OGFkLWIwYWYtZDJiYjQyNzBhNTY5IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
 <br>
 
 ## 6. Business Recommendations
