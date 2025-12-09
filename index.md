@@ -171,20 +171,20 @@ However, price-gap charts show Puma leaves money on the table in premium categor
 
 ### **Tactical Priorities (6–12 Months)**
 
-**4. Broaden product depth in underrepresented categories**
+ - **Broaden product depth in underrepresented categories**
     - **Problem:** Puma has fewer models in some categories (e.g., Running, Casual, Fashion, etc) where competitors are strong.
     - **Action:** Expanding product range in these categories by 20–30% to strengthen competitive presence.
   
- 5. **Expand color & material diversity**
+- **Expand color & material diversity**
     **Problem:** Competitors offer a greater variety of colors and materials, especially in lifestyle-oriented products.
     **Action:** Adding 3–5 new color/material variations for the top 10 Puma models and testing limited-edition drops through digital channels.
 
 ### Analytical & Continuous Priorities
 
-6. **Advanced monitoring & dashboards**
+ - **Advanced monitoring & dashboards**
     **Action:** Building dashboards to track top-selling models, product sell-through, competitor price comparisons, trend-led launches, and price-segment share.
 
-  7. **“Test & Learn” approach**
+  - **“Test & Learn” approach**
     **Action:** Experimenting with limited-edition drops and targeted price promotions. Measuring whether sales are incremental or cannibalizing existing products.
 
 ## 7. Conclusion
