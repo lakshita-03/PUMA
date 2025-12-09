@@ -158,6 +158,7 @@ However, price-gap charts show Puma leaves money on the table in premium categor
 ### **Executive Priorities (Next 3–6 Months)**
 
  **1. Boost Puma’s innovation & sustainable product pipeline**
+ 
     - **Problem:** Puma currently has fewer “future-trend” models (eco-friendly, knit, recycled-material, advanced-foam) compared to Adidas, Asics, and New Balance.
     - **Action:** Launch a focused Sustainable Capsule Collection of 4–8 products made from recycled materials, supported by a strong marketing campaign. Test the launch on the internet before fully starting it, and through a flagship retail partner.
   
