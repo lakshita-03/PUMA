@@ -176,16 +176,16 @@ However, price-gap charts show Puma leaves money on the table in premium categor
     - **Action:** Expanding product range in these categories by 20–30% to strengthen competitive presence.
   
 - **Expand color & material diversity**
-    **Problem:** Competitors offer a greater variety of colors and materials, especially in lifestyle-oriented products.
-    **Action:** Adding 3–5 new color/material variations for the top 10 Puma models and testing limited-edition drops through digital channels.
+    - **Problem:** Competitors offer a greater variety of colors and materials, especially in lifestyle-oriented products.
+    - **Action:** Adding 3–5 new color/material variations for the top 10 Puma models and testing limited-edition drops through digital channels.
 
 ### Analytical & Continuous Priorities
 
  - **Advanced monitoring & dashboards**
-    **Action:** Building dashboards to track top-selling models, product sell-through, competitor price comparisons, trend-led launches, and price-segment share.
+    - **Action:** Building dashboards to track top-selling models, product sell-through, competitor price comparisons, trend-led launches, and price-segment share.
 
   - **“Test & Learn” approach**
-    **Action:** Experimenting with limited-edition drops and targeted price promotions. Measuring whether sales are incremental or cannibalizing existing products.
+    - **Action:** Experimenting with limited-edition drops and targeted price promotions. Measuring whether sales are incremental or cannibalizing existing products.
 
 ## 7. Conclusion
 This project provided a comprehensive analysis of Puma’s U.S. sales performance and its competitive positioning against major brands. Through exploratory data analysis and competitor benchmarking, we identified Puma’s strengths in affordability and performance loyalty, while also highlighting gaps in premium pricing, product portfolio diversity, and model-level competitiveness. The insights from this study not only underscore Puma’s current market standing but also reveal opportunities to refine pricing strategies, expand product offerings, and capture a broader range of consumer segments.
