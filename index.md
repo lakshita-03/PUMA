@@ -8,7 +8,7 @@
   2. Data Description and Processing
   3. Exploratory Data Analysis (EDA)
   4. Competitive Analysis       
-  5. Visualization & Dashboards
+  5. [Visualization & Dashboards](https://app.powerbi.com/view?r=eyJrIjoiMWI5NDI3ZDEtMDdlZS00YWVjLTk4ZGItMGJkMTM4ZWY5ZGNlIiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9)
   6. Business Recommendations 
   7. Conclusion
 
